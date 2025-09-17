@@ -2,7 +2,7 @@ DATA CLEANING PROJECT
 
 Overview
 
-This repository contains the data cleaning workflow for [Sales Dataset].
+This repository contains the data cleaning workflow for dirty sales dataset.
 The goal is to transform raw, messy data into a reliable, analysis-ready dataset by handling missing values, inconsistent formats, and outliers.
 
 Objectives
@@ -41,6 +41,8 @@ c. Missing Data Handling: Imputation, deletion, or domain-specific replacements.
 d. Outlier Treatment: Z-score, IQR, or domain logic.
 
 e. Validation: Ensuring row/column counts, schema, and summary stats match expectations.
+
+Data set download : [http://localhost:8888/files/Desktop/DATA%20TYPES/DIRTY%20DATA.csv?_xsrf=2%7C6f58050f%7C01fd10678122998204be4576559e7b90%7C1757099092]
 
 -- Quality Checks
 
