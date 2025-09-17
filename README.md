@@ -42,10 +42,11 @@ d. Outlier Treatment: Z-score, IQR, or domain logic.
 
 e. Validation: Ensuring row/column counts, schema, and summary stats match expectations.
 
-Data set download : [http://localhost:8888/files/Desktop/DATA%20TYPES/DIRTY%20DATA.csv?_xsrf=2%7C6f58050f%7C01fd10678122998204be4576559e7b90%7C1757099092]
 
 -- Quality Checks
 
 a. Automated tests for column types and null thresholds (pytest or custom checks).
 
 b. Visual inspection plots for distributions before and after cleaning.
+
+[Download raw_data.csv] : (http://localhost:8888/files/Desktop/DATA%20TYPES/DIRTY%20DATA.csv?_xsrf=2%7C6f58050f%7C01fd10678122998204be4576559e7b90%7C1757099092)
